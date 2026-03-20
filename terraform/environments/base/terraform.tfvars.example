@@ -1,0 +1,7 @@
+project      = "gitops-example"
+github_org   = "FeedbackLoopEngineering"
+github_repos = [
+  "gitops-base-image-example",
+  "gitops-application-example",
+  "gitops-manifest-example",
+]
